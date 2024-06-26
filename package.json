@@ -1,0 +1,14 @@
+{
+  "name": "clashofcolors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Soroush Ebrahimi",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^31.0.1"
+  }
+}
